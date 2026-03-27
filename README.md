@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a frontend-oriented software developer who came from a background in logistics.
+Frontend-focused software developer with a year of experience, specializing in building responsive, user-friendly applications with React and Nextjs. Strong focus on clean UX/UI, scalable architectue, and solving complex logic challenges. Skilled at translating ideas into intuitive digital experiences that balance performance with design.
 
 * 🌍  I'm based in New Orleans
 * ✉️  You can contact me at [tjsaverin98@live.com](mailto:tjsaverin98@live.com)
